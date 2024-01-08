@@ -1,9 +1,9 @@
 #include "main.h"
 /**
 *_memset - function that fills memory with a constant byte
-*@s first value
-*@b second value
-*@n third value
+*@s: first value
+*@b: second value
+*@n: third value
 *
 *Return: a pointer to the memory area s
 */
